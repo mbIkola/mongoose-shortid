@@ -2,7 +2,7 @@
   "name": "@mbikola/mongoose-shortid",
   "description": "Short Ids for mongoose v5 and latest bignum. Same as original mongoose-shortid",
   "author": "Jason Choy <jjwchoy@gmail.com>",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "contributors": [
     {
       "name": "Jason Choy",
